@@ -9,4 +9,6 @@ import de.felixroske.jfxsupport.FXMLView;
 @FXMLView(value = "/fxml/Main.fxml")
 public class MainView extends AbstractFxmlView {
 
+
+
 }
