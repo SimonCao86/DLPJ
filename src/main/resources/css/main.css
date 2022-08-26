@@ -1,0 +1,11 @@
+.button {
+    -fx-background-color: lightblue;
+}
+
+.button:hover{
+    /*-fx-background-color: blue;*/
+}
+
+.tool-bar{
+    /*-fx-background-color: lightblue;*/
+}
